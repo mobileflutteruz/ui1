@@ -67,10 +67,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       ),
                       Row(
                         children:  [
-                          IconS(
-                            iconColor: Colors.grey,
-                            iconIcon: ,
-                          ),
+                         
                           Icon(
                             Icons.star,
                             color: Colors.yellow,
